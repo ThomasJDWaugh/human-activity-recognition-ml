@@ -1,1 +1,2 @@
 # human-activity-recognition-ml
+A machine learning project on Human Activity Recognition (HAR) using smartphone accelerometer data. Built multiple supervised models (Random Forest, SVM, Neural Networks) to classify six activities — walking, jogging, sitting, standing, ascending stairs, and descending stairs. Includes data preprocessing, feature engineering, exploratory analysis, model evaluation, and a Kaggle competition submission
